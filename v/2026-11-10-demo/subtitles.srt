@@ -1,0 +1,534 @@
+1
+00:00:01,520 --> 00:00:07,260
+All right, so I wanted to demo some work
+here surrounding the Pathways
+
+2
+00:00:07,260 --> 00:00:08,060
+dashboard.
+
+3
+00:00:09,440 --> 00:00:11,280
+It still needs to be called Pathways, not
+Compass.
+
+4
+00:00:12,280 --> 00:00:15,880
+So I want to mess around a little bit with
+activities that we can put in here that
+
+5
+00:00:15,880 --> 00:00:18,480
+would make sense within this dashboard
+feature.
+
+6
+00:00:18,560 --> 00:00:22,940
+And this is our still working dashboard
+for what the view looks like, where you
+
+7
+00:00:22,940 --> 00:00:26,660
+have your active session here on the left.
+
+8
+00:00:26,660 --> 00:00:30,020
+You have your dashboard with all of the
+other activities that you've been able to
+
+9
+00:00:30,020 --> 00:00:30,820
+implement.
+
+10
+00:00:30,440 --> 00:00:35,700
+And then you have this explore button,
+which right now just goes directly to the
+
+11
+00:00:35,700 --> 00:00:36,760
+job universe thing.
+
+12
+00:00:37,180 --> 00:00:40,880
+But in the future, it could be a bunch of
+different things for you just to mess
+
+13
+00:00:40,880 --> 00:00:41,680
+around with.
+
+14
+00:00:41,300 --> 00:00:44,680
+Like imagine explore more as like, here's
+all the different activities.
+
+15
+00:00:45,340 --> 00:00:50,160
+Here's the different courses to explore,
+et cetera, for any of the various modules.
+
+16
+00:00:51,660 --> 00:00:57,180
+So I also worked on getting this up next
+queue going, pulling from activities that
+
+17
+00:00:57,180 --> 00:00:58,600
+would pop up in explore.
+
+18
+00:00:59,280 --> 00:01:03,340
+And they hook up to the bookmarks feature.
+
+19
+00:01:04,900 --> 00:01:07,860
+So let me get this to work again, OK?
+
+20
+00:01:08,500 --> 00:01:11,780
+So imagine I did my whole Compass intro.
+
+21
+00:01:12,320 --> 00:01:15,080
+And what's interesting is it might happen
+beyond Pathways.
+
+22
+00:01:15,120 --> 00:01:16,480
+It's kind of like a currency, right?
+
+23
+00:01:16,500 --> 00:01:17,720
+Like you're getting these stars.
+
+24
+00:01:17,840 --> 00:01:21,940
+These stars could be spent in other spaces
+that are not Pathways.
+
+25
+00:01:22,060 --> 00:01:24,140
+But for right now, it's for 10 minutes in
+Pathways.
+
+26
+00:01:24,460 --> 00:01:26,920
+I'm going to go through and I'm just going
+to star random things.
+
+27
+00:01:26,920 --> 00:01:29,400
+I'm going to say I did my intake survey
+
+28
+00:01:30,580 --> 00:01:33,360
+and I explore the universe a little bit.
+
+29
+00:01:33,800 --> 00:01:35,120
+And I'm just going to start a different
+thing.
+
+30
+00:01:35,260 --> 00:01:38,500
+I think these activities actually work
+best when we're able to play off of that
+
+31
+00:01:38,500 --> 00:01:39,300
+context.
+
+32
+00:01:39,540 --> 00:01:44,620
+So all the activities right now are based
+around having these bookmarks in place.
+
+33
+00:01:44,900 --> 00:01:47,080
+I'm just going to do a few more here.
+
+34
+00:01:48,560 --> 00:01:49,480
+Do some over here.
+
+35
+00:01:54,990 --> 00:02:00,670
+So now that I have my bookmarks in place,
+first off, my bookmarks appear here
+
+36
+00:02:00,670 --> 00:02:02,570
+in this little bookmark section,
+
+37
+00:02:03,410 --> 00:02:08,630
+which is kind of cool because you're able
+to find different roles and things here.
+
+38
+00:02:08,630 --> 00:02:10,690
+And it also does the colleges, too.
+
+39
+00:02:12,170 --> 00:02:16,910
+But then I built our first reflection or
+activity within here, which is a tier list
+
+40
+00:02:16,910 --> 00:02:17,710
+maker.
+
+41
+00:02:17,930 --> 00:02:21,370
+I feel like it makes a lot of sense for
+kids and it works really well.
+
+42
+00:02:21,570 --> 00:02:25,010
+And just like all of the other features,
+you can write or talk through it.
+
+43
+00:02:25,930 --> 00:02:29,010
+Here we have our different things that
+we've bookmarked.
+
+44
+00:02:29,910 --> 00:02:33,150
+And I'm just going to do this kind of
+random.
+
+45
+00:02:33,250 --> 00:02:35,650
+I imagine that I'm either talking through
+this, et cetera.
+
+46
+00:02:36,430 --> 00:02:40,310
+I'm going to put these somewhat randomly
+in here.
+
+47
+00:02:42,030 --> 00:02:43,390
+I'm not going to put anything.
+
+48
+00:02:43,690 --> 00:02:44,530
+Maybe one thing in D.
+
+49
+00:02:44,610 --> 00:02:45,670
+Maybe I clicked it.
+
+50
+00:02:47,630 --> 00:02:48,770
+So put those in there.
+
+51
+00:02:48,830 --> 00:02:51,090
+I can write things if I want, but I'm just
+going to hit this.
+
+52
+00:02:53,920 --> 00:02:59,620
+And it's going to do just like a really,
+really, really basic sonnet
+
+53
+00:02:59,620 --> 00:03:04,720
+call summarizing this information similar
+to how the intake activity also has a
+
+54
+00:03:04,720 --> 00:03:08,340
+really simple call to figure out what
+folks said.
+
+55
+00:03:08,360 --> 00:03:11,520
+So it's just reading what you said back to
+it and making sense of that.
+
+56
+00:03:13,160 --> 00:03:15,920
+So it's going to load here for a second.
+
+57
+00:03:16,220 --> 00:03:19,000
+It is kind of nice that if I were to go
+back to the dashboard here,
+
+58
+00:03:19,860 --> 00:03:22,980
+we can still be doing other things while
+this is loading.
+
+59
+00:03:23,040 --> 00:03:25,020
+We'll just say it's still working on it.
+
+60
+00:03:25,120 --> 00:03:30,160
+Just kind of nice for maybe processes that
+might take longer than just a few minutes.
+
+61
+00:03:32,080 --> 00:03:36,220
+As you'll see here in a second, once this
+loads, which hopefully it does,
+
+62
+00:03:37,060 --> 00:03:39,920
+it will be so cool.
+
+63
+00:03:40,080 --> 00:03:41,500
+It's going to work so well.
+
+64
+00:03:44,650 --> 00:03:47,770
+I haven't actually tested it on this
+computer, so I'm hoping it's actually
+
+65
+00:03:47,770 --> 00:03:48,570
+working.
+
+66
+00:03:48,710 --> 00:03:53,650
+While that's going, another thing that I
+implemented is this find places near you
+
+67
+00:03:53,650 --> 00:03:54,450
+type thing.
+
+68
+00:03:57,070 --> 00:04:02,310
+And the way that this would hypothetically
+work is you could search for a certain job
+
+69
+00:04:03,290 --> 00:04:08,110
+and it would know where you're located and
+it would use that as a database and just
+
+70
+00:04:08,110 --> 00:04:09,530
+look for jobs that are open near you.
+
+71
+00:04:09,790 --> 00:04:14,350
+This is a function that already exists in
+the Compass intake form, but just some
+
+72
+00:04:14,350 --> 00:04:15,390
+other way to search for it.
+
+73
+00:04:15,730 --> 00:04:21,070
+But I want to add in this thing, which
+needs better UX, but the idea would be
+
+74
+00:04:21,070 --> 00:04:25,250
+that you could search for something and it
+would be places that your school has
+
+75
+00:04:25,250 --> 00:04:27,970
+already logged that they have worked with
+in the past.
+
+76
+00:04:28,350 --> 00:04:31,730
+So like they would have like their own
+internal database of different employers,
+
+77
+00:04:31,730 --> 00:04:35,710
+et cetera, which could be a way to connect
+with those careers through trusted adults
+
+78
+00:04:35,710 --> 00:04:38,090
+at your school, which is kind of cool.
+
+79
+00:04:38,190 --> 00:04:39,330
+And that good could live in that sport.
+
+80
+00:04:39,970 --> 00:04:41,990
+Okay, so this is good now.
+
+81
+00:04:43,750 --> 00:04:46,830
+Again, it's a little funky looking, but
+the concept is here.
+
+82
+00:04:47,290 --> 00:04:50,310
+It lists things that you're drawn to.
+
+83
+00:04:51,010 --> 00:04:54,210
+In this case, a lot of it just requires a
+high school diploma.
+
+84
+00:04:54,550 --> 00:04:56,450
+You highlight, it shows you what the
+things are,
+
+85
+00:04:57,330 --> 00:05:00,730
+things that you don't want, which in this
+case are just the opposite.
+
+86
+00:05:00,750 --> 00:05:01,650
+We'll need to work on that.
+
+87
+00:05:02,330 --> 00:05:04,870
+And things that are going in both ways.
+
+88
+00:05:05,210 --> 00:05:06,730
+It has things that you could think about
+
+89
+00:05:07,770 --> 00:05:11,470
+in terms of what you might want doing and
+it just shows you a reflection.
+
+90
+00:05:11,930 --> 00:05:14,150
+For any of these, you can go in and log.
+
+91
+00:05:14,910 --> 00:05:16,590
+Like, oh, this was a really interesting
+thing.
+
+92
+00:05:16,590 --> 00:05:22,170
+And if you log it, then it pops up here in
+your
+
+93
+00:05:22,170 --> 00:05:22,970
+takeaways.
+
+94
+00:05:23,430 --> 00:05:25,950
+So your takeaways go here.
+
+95
+00:05:26,890 --> 00:05:28,970
+And it serves like one page that's all
+here.
+
+96
+00:05:29,370 --> 00:05:34,890
+But what's interesting is that as you add
+more takeaways, it does like the simplest
+
+97
+00:05:34,890 --> 00:05:36,510
+possible call on this.
+
+98
+00:05:36,550 --> 00:05:39,910
+Whenever you add new takeaways, after you
+get to a certain number, and it will start
+
+99
+00:05:39,910 --> 00:05:41,410
+summarizing your takeaways here.
+
+100
+00:05:41,410 --> 00:05:43,490
+So you're having a summary of the summary.
+
+101
+00:05:43,590 --> 00:05:48,190
+So you're just kind of like building this
+really interesting kind of like pathways
+
+102
+00:05:48,190 --> 00:05:48,990
+system.
+
+103
+00:05:49,510 --> 00:05:50,310
+However,
+
+104
+00:05:50,890 --> 00:05:53,950
+just like everything else that works
+within the Polaris system, where the idea
+
+105
+00:05:53,950 --> 00:05:55,550
+is that the data feeds off of each other.
+
+106
+00:05:55,950 --> 00:06:01,570
+If we added something here, say for SEL,
+SEL could also live on this
+
+107
+00:06:01,570 --> 00:06:05,970
+dashboard and the takeaways, reflections,
+bookmarks, et cetera, could also exist for
+
+108
+00:06:05,970 --> 00:06:09,690
+SEL and they could play on each other,
+which is really unique and interesting.
+
+109
+00:06:09,750 --> 00:06:11,530
+They wouldn't live as separate
+experiences.
+
+110
+00:06:11,530 --> 00:06:13,630
+They would actually all just be part of
+the dashboard.
+
+111
+00:06:13,630 --> 00:06:18,130
+And in Explorer, you just have more
+options to choose from now that you have
+
+112
+00:06:18,130 --> 00:06:18,930
+additional things.
+
+113
+00:06:18,850 --> 00:06:22,850
+And then as a facilitator, I would have
+additional sessions that I could watch in
+
+114
+00:06:22,850 --> 00:06:23,670
+addition to the listen,
+
+115
+00:06:26,110 --> 00:06:27,990
+pathways, SEL, et cetera.
+
+116
+00:06:28,430 --> 00:06:29,990
+So let me know if your thoughts are on
+that.
+
+117
+00:06:30,030 --> 00:06:31,590
+And we'll go from there.
+
